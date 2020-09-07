@@ -1,5 +1,10 @@
 # sunmoon-onboarding-node
 ​
+#### Goal: be able to create endpoints that will cater the requirements below.
+#### You may use any Koa or Express nodejs framework
+#### Use any third-party library that you see fit
+#### Providing test will be a factor but not required
+
 ## Running it
 ​
 ### With Docker
